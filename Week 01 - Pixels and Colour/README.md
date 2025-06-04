@@ -14,6 +14,6 @@ Run `gradient_example.pde` in Processing.
 
 ## Screengrab
 
-![Add Colour](add_colour.png)
+![Add Colour](data/add_colour.png)
 
 ## Design notes
